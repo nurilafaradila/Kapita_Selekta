@@ -8,7 +8,7 @@
 - --Cara membuat repository baru.
 - --Cara pull dan push request.
 
-1. **Pembahasan**
+2. **Pembahasan**
 
 Github adalah server repository untuk git.
 
